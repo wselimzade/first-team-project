@@ -1,0 +1,7 @@
+/* Umumi css fayllari */
+@import "./_reset.css";
+@import "./_utilites.css";
+@import "./_header.css";
+@import "./_icons.css";
+@import "./_button.css";
+@import "./_text.css";
