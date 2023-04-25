@@ -1,0 +1,12 @@
+/* @butonlar ucun yazilan kodlar */
+.header
+  .header-right
+  .header-right-content
+  .reservation
+  .reservation-content
+  .button-reservation {
+  padding: 1.6rem 3.3rem;
+  background-color: #7a9ca5;
+  color: #ffffff;
+  cursor: pointer;
+}

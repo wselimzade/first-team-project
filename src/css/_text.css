@@ -1,0 +1,51 @@
+/* @sehifedeki butun metinlerin dizayni */
+
+/* @istifade olunacaq fontlar */
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.header
+  .header-left
+  .header-left-content
+  .header-left-first-content
+  .logo-name
+  h3 {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #141414;
+}
+
+.header
+  .header-left
+  .header-left-content
+  .header-left-second-content
+  .contact
+  .call-number
+  .call-number-content
+  span,
+.header
+  .header-left
+  .header-left-content
+  .header-left-second-content
+  .contact
+  .call-number
+  .number {
+  font-family: "Manrope", sans-serif;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #141414;
+}
+
+.header
+  .header-right
+  .header-right-content
+  .menu
+  .menu-content
+  .menu-content-list
+  .menu-content-item
+  .menu-content-link {
+  font-family: "Manrope", sans-serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #555555;
+}

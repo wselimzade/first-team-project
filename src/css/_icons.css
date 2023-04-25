@@ -1,0 +1,46 @@
+/* @iconlar ucun yazilan kodlar */
+.header
+  .header-left
+  .header-left-content
+  .header-left-first-content
+  .logo-name
+  .logo
+  img {
+  width: 3.3rem;
+  height: 3.3rem;
+}
+
+.header
+  .header-left
+  .header-left-content
+  .header-left-second-content
+  .contact
+  .call
+  img {
+  width: 2.089rem;
+  height: 2.093rem;
+}
+
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .facebook
+  i,
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .twitter
+  i,
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .linkedin
+  i {
+  color: #141414;
+}

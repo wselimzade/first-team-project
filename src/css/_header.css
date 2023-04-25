@@ -1,0 +1,55 @@
+/* @header hissesinin ve elementlerinin olculeri */
+
+.header {
+  justify-content: space-between;
+  padding: 3.8rem 5.961rem 3.7rem 6rem;
+}
+
+.header .header-left .header-left-first-content h3 {
+  padding-left: 1.2rem;
+  padding-right: 4.6rem;
+}
+
+.header .header-left .header-left-second-content .call-number {
+  padding-left: 1.2rem;
+}
+
+.header
+  .header-right
+  .header-right-content
+  .menu
+  .menu-content
+  .menu-content-list
+  .menu-content-item {
+  padding-left: 1rem;
+}
+
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .facebook {
+  padding-left: 3.2rem;
+  padding-right: 3rem;
+}
+
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .linkedin {
+  padding-left: 3rem;
+  padding-right: 3.2rem;
+}
+
+.header
+  .header-right
+  .header-right-content
+  .reservation
+  .reservation-content
+  .button-reservation
+  span {
+  padding-left: 1.2rem;
+}
