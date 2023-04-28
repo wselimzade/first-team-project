@@ -17,6 +17,10 @@ html {
   font-size: 10px;
 }
 
+body{
+  width: 100%;
+}
+
 ul,
 ol {
   list-style-type: none;

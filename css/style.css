@@ -2,6 +2,9 @@
 @import "./_reset.css";
 @import "./_utilites.css";
 @import "./_header.css";
+@import "./_footer.css";
 @import "./_icons.css";
 @import "./_button.css";
 @import "./_text.css";
+@import "./_blog-single.css";
+@import "./_image.css";

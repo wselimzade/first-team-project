@@ -49,3 +49,230 @@
   font-weight: 400;
   color: #555555;
 }
+
+/* @blog-single text */
+
+.blog-single
+  .container
+  .blog-single-first-section
+  .blog-single-first-section-text
+  #text-one {
+  font-family: "Manrope";
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+.blog-single
+  .container
+  .blog-single-first-section
+  .blog-single-first-section-text
+  #text-two {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 5.5rem;
+  color: #ffffff;
+}
+
+/* second-content left */
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-first-content
+  .name-director
+  #author {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 2rem;
+  color: #141414;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-first-content
+  .name-director
+  #director {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: #000000;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-first-content
+  .name-director
+  #beauty {
+  font-family: "Manrope";
+  background-color: #7a9ca5;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-second-content {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 1.8rem;
+  color: #555555;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  #share {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 2rem;
+  color: #141414;
+}
+
+/* second-content-right */
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  p,
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  ul
+  li,
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  ol
+  li {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 1.8rem;
+  color: #555555;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  .quotes
+  .quotes-second-content {
+  font-weight: 500;
+  color: #141414;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  ul
+  li {
+  list-style-type: disc;
+  letter-spacing: 0.02em;
+  margin-bottom: 2.79rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  ol
+  li {
+  list-style-type: decimal;
+  letter-spacing: 0.02em;
+  margin-bottom: 4rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  h3 {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 4.5rem;
+  line-height: 140%;
+  letter-spacing: 0.02em;
+  color: #141414;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  h5 {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 154.5%;
+  letter-spacing: 0.02em;
+  color: #555555;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  h4 {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 130%;
+  letter-spacing: 0.02em;
+  color: #141414;
+}
+
+/* footer text */
+
+.footer .footer-content .footer-content-first .footer-logo-name h3 {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 4rem;
+  color: #ffffff;
+}
+
+.footer .footer-content .footer-content-menu h2 {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 2.2rem;
+}
+
+.footer .footer-content .footer-content-menu ul li,
+.footer .footer-content .footer-content-menu ul li a,
+.footer .footer-content .footer-content-menu .adress {
+  font-family: "Manrope";
+  font-weight: 500;
+  font-size: 1.7rem;
+  color: #ffffff;
+}
+
+.footer .footer-content .footer-content-menu .adress .adress-first {
+  font-weight: 700;
+}

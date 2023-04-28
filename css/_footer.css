@@ -1,0 +1,104 @@
+.footer {
+  height: auto;
+  width: auto;
+  background-color: #1e2c30;
+  color: aliceblue;
+}
+
+.footer .footer-content {
+  padding-top: 7.1rem;
+  padding-top: 6.8rem;
+}
+
+.footer .footer-content .footer-content-first {
+  background-color: #1e2c30;
+  margin-left: 36.05rem;
+  margin-right: 36.15rem;
+}
+
+.footer
+  .footer-content
+  .footer-content-first
+  .footer-content-first-content-first
+  .footer-content-first-content-first-content
+  h3 {
+  margin-left: 1.7rem;
+}
+
+.footer
+  .footer-content
+  .footer-content-first
+  .footer-content-first-content-first {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: 5.7rem;
+}
+
+.footer .footer-content .footer-content-first-content-second {
+  margin-top: 5.2rem;
+  margin-bottom: 6.6rem;
+}
+
+.footer
+  .footer-content
+  .footer-content-first-content-second
+  .footer-content-menu
+  h2 {
+  margin-bottom: 2.1rem;
+}
+
+.footer
+  .footer-content
+  .footer-content-first-content-second
+  .footer-content-menu
+  ul
+  li {
+  margin-bottom: 3.4rem;
+}
+
+.footer
+  .footer-content
+  .footer-content-first-content-second
+  .footer-content-menu
+  .adress
+  .adress-content
+  .adress-content-first
+  .adress-second {
+  padding-left: 1.4rem;
+}
+.footer
+  .footer-content
+  .footer-content-first-content-second
+  .footer-content-menu
+  .adress
+  .adress-content
+  .adress-content-second
+  .adress-second {
+  padding-left: 4.7rem;
+}
+.footer
+  .footer-content
+  .footer-content-first-content-second
+  .footer-content-menu
+  .adress
+  .adress-content
+  .adress-content-third
+  .adress-second {
+  padding-left: 2.9rem;
+}
+
+.footer
+  .footer-content
+  .footer-content-first-content-second
+  .footer-content-menu
+  .adress
+  .adress-content
+  .adress-content-second {
+  margin-top: 1.55rem;
+  margin-bottom: 1.55rem;
+}
+
+.footer .footer-content .footer-content-second {
+  padding-top: 2rem;
+  padding-bottom: 1.9rem;
+  background: #111e22;
+}

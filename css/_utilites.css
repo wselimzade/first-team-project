@@ -15,3 +15,15 @@
 .wrap {
   flex-wrap: wrap;
 }
+
+.text-center {
+  text-align: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.between {
+  justify-content: space-between;
+}

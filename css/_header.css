@@ -3,6 +3,11 @@
 .header {
   justify-content: space-between;
   padding: 3.8rem 5.961rem 3.7rem 6rem;
+  position: fixed;
+  top: 0;
+  background: #ffffff;
+  z-index: 1;
+  width: 100%;
 }
 
 .header .header-left .header-left-first-content h3 {
