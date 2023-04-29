@@ -1,10 +1,10 @@
 /* Umumi css fayllari */
-@import "./_reset.css";
-@import "./_utilites.css";
-@import "./_header.css";
-@import "./_footer.css";
-@import "./_icons.css";
-@import "./_button.css";
-@import "./_text.css";
-@import "./_blog-single.css";
-@import "./_image.css";
+@import "./reset.css";
+@import "./utilites.css";
+@import "./header.css";
+@import "./footer.css";
+@import "./icons.css";
+@import "./button.css";
+@import "./text.css";
+@import "./blog-single.css";
+@import "./image.css";
