@@ -44,7 +44,21 @@
   i {
   color: #141414;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 1.6rem;
+  }
+
+.header
+.header-right
+.header-right-content
+.menu
+.menu-content
+.menu-content-list
+.hidden
+{
+  color: #141414;
+  font-size: 1.6rem;
+  display: none;
+  /* visibility: hidden; */
 }
 
 /* @blog-single icon */
