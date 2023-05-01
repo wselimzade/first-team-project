@@ -90,4 +90,13 @@
   .header-left-first-content {
     margin-bottom: 20px;
   }
+  .header
+  .header-left
+  .header-left-content
+  .header-left-second-content
+  .contact
+  .call-number
+  .number {
+    font-size: 1.5rem!important;
+  }
 }
