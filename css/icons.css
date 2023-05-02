@@ -50,11 +50,9 @@
 .header
 .header-right
 .header-right-content
-.menu
-.menu-content
-.menu-content-list
+.sosial-icon
 .hidden
-{
+i{
   color: #141414;
   font-size: 1.6rem;
   display: none;

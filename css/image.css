@@ -1,6 +1,6 @@
 /* sehifedeki wekillerin dizayni */
 
-.blog-single .container .blog-single-first-section .blog-single-first-image {
-  max-width: 100%;
-  max-height: 100%;
+.blog-single .container .blog-single-first-section .blog-single-first-image img,
+.blog-section-second-image img {
+  width: 100%;
 }

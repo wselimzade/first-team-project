@@ -1,5 +1,5 @@
 .blog-single {
-  padding-top: 12.5rem;
+  /* padding-top: 12.5rem; */
 }
 
 /* .blog-single .blog-single-background {
@@ -14,21 +14,21 @@
 
 .blog-single .background-color {
   background: #1e2c30;
-  width: auto;
+  width: 100%;
   height: 62.5rem;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 .blog-single-content-background {
-  width: auto;
-  height: 230rem;
+  width: 100%;
+  /* height: 230rem; */
 }
 
 .container {
-  position: absolute;
-  max-width: 1198px;
-  max-height: auto;
-  top: 25.5rem;
+  /* position: absolute; */
+  
+  /* max-height: auto; */
+  /* margin-top: 25.5rem; */
   
 }
 
@@ -37,9 +37,11 @@
   /* border: 1px solid black; */
 }
 
-/* .container-main{
-  margin: 225.5rem 36.2rem 75.5rem 36rem;
-} */
+.container-main{
+  max-width: 1340px;
+  margin: 0 auto;
+  margin-top:-370px;
+} 
 
 .blog-single
   .container
@@ -60,8 +62,16 @@
   .blog-single-second-section
   .blog-single-second-section-right {
   /* padding-left: 8.7rem; */
-  padding-left: 9.4rem;
+  /* padding-left: 9.4rem; */
 }
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left {
+    width: 500px;
+    margin-right: 15px;
+  }
 
 .blog-single
   .container
@@ -72,7 +82,6 @@
   background: #effcff;
   border: 5px solid #7a9ca5;
   /* margin-right: 9.4rem; */
-  width: 100%;
   height: auto;
 }
 
@@ -153,14 +162,21 @@
 
 /*right container */
 
-.blog-single
+/* .blog-single
   .container
   .blog-single-second-section
   .blog-single-second-section-right
   .blog-single-second-section-right-content {
-  /* max-width: 69.4rem; */
-  /* max-height: 174rem; */
-}
+  max-width: 69.4rem;
+  max-height: 174rem;
+} */
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right {
+    width: 708px;
+  }
 
 .blog-single
   .container
@@ -180,7 +196,7 @@
   ul {
   margin-top: 3rem;
   margin-bottom: 5rem;
-  margin-left: 3rem;
+  padding-left: 3rem;
   /* padding-left: 0.7rem; */
 }
 
@@ -190,7 +206,7 @@
   .blog-single-second-section-right
   .blog-single-second-section-right-content
   ol {
-  margin-left: 3rem;
+  padding-left: 3rem;
   /* padding-left: 0.7rem; */
 }
 
@@ -221,8 +237,8 @@
   .quotes {
   margin-top: 4rem;
   margin-bottom: 4rem;
-  width: 69.4rem;
-  height: 16.6rem;
+  width: 100%;
+  height: auto;
 }
 
 .blog-single
@@ -254,4 +270,18 @@
   .quotes
   .quotes-second-content {
   padding: 3.5rem 4.588rem 3.5rem 4.3rem;
+}
+
+@media screen and (max-width: 1090px ) {
+  .blog-single-second-section {
+    flex-direction: column;
+  }
+  .blog-single-second-section-left {
+    width: 100%!important;
+    margin-bottom: 20px;
+  }
+  .blog-single-second-section-right {
+    margin: 0 auto;
+    width: 90%!important;
+  }
 }
