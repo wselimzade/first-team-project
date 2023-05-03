@@ -83,9 +83,7 @@
   .footer-content-menu ul li {
     /* margin-left: 1.5rem; */
   }
-  .footer-content-menu #home {
-    margin-left: 0px !important;
-  }
+
   .footer-content-menu .adress {
     margin-bottom: 2rem;
     margin-left: 1.5rem;
