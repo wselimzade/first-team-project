@@ -103,3 +103,13 @@
   }
   
 }
+
+@media screen and (max-width:550px) {
+  .header-right-content {
+    flex-direction: column;
+  }
+  .header-right-content 
+  .sosial-icon {
+    margin-bottom: 20px;
+  }
+}
