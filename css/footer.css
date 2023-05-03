@@ -22,7 +22,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 1200px;
+  width: 120rem;
 }
 
 .footer
@@ -38,7 +38,7 @@
   .footer-content
   .footer-content-first
   .footer-content-first-content-first {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 0.1rem solid rgba(255, 255, 255, 0.15);
   padding-bottom: 5.7rem;
   width: 100%;
   /* justify-content: space-between!important; */
@@ -116,101 +116,3 @@
   width: 100%;
 }
 
-@media screen and (max-width: 1320px) {
-  .footer-content-first-content-first {
-    /* flex-direction: column;
-    justify-items: center;
-    align-items: center; */
-    justify-content: space-around!important;
-  }
-  /* .footer-content-first-content-first-content {
-    margin-bottom: 20px;
-  } */
-  .footer-content-first {
-    width: 80%!important;
-  }
-}
-
-@media screen and (max-width: 1585px) {
-  .footer-content-first-content-second {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  }
-  .footer-content-menu ul {
-    display: flex;
-  }
-  .footer-content-menu {
-    margin-bottom: 20px;
-  }
-  .footer-content-menu ul li {
-    margin-left: 15px;
-  }
-  .footer-content-menu .adress {
-    margin-bottom: 20px;
-    margin-left: 15px;
-  }
-  .adress-second {
-    display: flex;
-  }
-}
-
-
-@media screen and (max-width: 900px) {
-   .footer-content-menu ul {
-    display: block;
-  } 
-  .footer-content-first-content-first {
-    flex-direction: column;
-    align-items: center;
-  }
-  .footer-content-first-content-first-content {
-    margin-bottom: 25px;
-  }
-  /* .footer-content-first-content-second {
-    text-align: center;
-  }
-  .footer-content-menu .adress {
-    text-align: center;
-  } */
-  
-  /* .footer-content-menu {
-    text-align: center;
-  }
-  .adress-content-first,
-  .adress-content-second,
-  .adress-content-third {
-    justify-content: center;
-  } */
-}
-
-@media screen and (max-width: 1058px) {
-  .footer-content {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-}
-
-@media screen and (max-width:570px)
-{
-  .adress-content-first, 
-  .adress-content-second, 
-  .adress-content-third {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-  .adress-first {
-    margin-bottom: 15px;
-  }
-  .adress-second {
-    padding-left: 0!important;
-  }
-}
-
-@media screen and (max-width:450px) {
-  .adress-second {
-    flex-direction: column;
-  }
-}

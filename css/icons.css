@@ -69,7 +69,7 @@ i{
   .blog-single-second-section-left-content-third-content
   .blog-single-facebook {
   padding: 1.2rem 1.6rem 1.1rem 1.7rem;
-  border: 1px solid #7a9ca5;
+  border: 0.1rem solid #7a9ca5;
 }
 
 .blog-single
@@ -93,7 +93,7 @@ i{
   .blog-single-second-section-left-content-third-content
   .blog-single-twitter {
   padding: 1.2rem 1.3rem 1.1rem 1.4rem;
-  border: 1px solid #7a9ca5;
+  border: 0.1rem solid #7a9ca5;
 }
 
 .blog-single
@@ -117,7 +117,7 @@ i{
   .blog-single-second-section-left-content-third-content
   .blog-single-linkedin {
   padding: 1.2rem 1.4rem 1.1rem 1.5rem;
-  border: 1px solid #7a9ca5;
+  border: 0.1rem solid #7a9ca5;
 }
 
 .blog-single
@@ -141,7 +141,7 @@ i{
   .blog-single-second-section-left-content-third-content
   .blog-single-instagram {
   padding: 1.1rem 1.4rem;
-  border: 1px solid #7a9ca5;
+  border: 0.1rem solid #7a9ca5;
 }
 
 .blog-single
@@ -168,9 +168,9 @@ i{
 .footer .footer-sosial-icon .footer-twitter i,
 .footer .footer-sosial-icon .footer-linkedin i,
 .footer .footer-sosial-icon .footer-instagram i {
-  border: 2px solid #5c8692;
+  border: 0.2rem solid #5c8692;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 1.8rem;
   color: #ffffff;
 }
 .footer .footer-sosial-icon .footer-facebook i {
