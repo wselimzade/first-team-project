@@ -80,10 +80,11 @@
     margin-bottom: 2rem;
     justify-content: center;
   }
+  /*
   .footer-content-menu ul li {
-    /* margin-left: 1.5rem; */
+    margin-left: 1.5rem;
   }
-
+*/
   .footer-content-menu .adress {
     margin-bottom: 2rem;
     margin-left: 1.5rem;
@@ -101,7 +102,7 @@
   }
   .adress-second {
     display: flex;
-    padding-left: 0px!important;
+    padding-left: 0px !important;
     justify-content: center;
   }
 }
@@ -186,7 +187,7 @@
     width: 90% !important;
   }
   .blog-single-facebook {
-    margin-left: 0px!important;
+    margin-left: 0px !important;
   }
   /* .container-main {
     margin-top: -34rem;
