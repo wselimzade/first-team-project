@@ -24,6 +24,14 @@
   flex-direction: column;
 }
 
+.row {
+  flex-direction: row;
+}
+
 .between {
   justify-content: space-between;
+}
+
+.around {
+  justify-content: space-around;
 }
