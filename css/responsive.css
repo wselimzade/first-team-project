@@ -81,7 +81,7 @@
     justify-content: center;
   }
   .footer-content-menu ul li {
-    margin-left: 1.5rem;
+    /* margin-left: 1.5rem; */
   }
   .footer-content-menu #home {
     margin-left: 0px !important;
@@ -186,6 +186,9 @@
   .blog-single-second-section-right {
     margin: 0 auto;
     width: 90% !important;
+  }
+  .blog-single-facebook {
+    margin-left: 0px!important;
   }
   /* .container-main {
     margin-top: -34rem;
