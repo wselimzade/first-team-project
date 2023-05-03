@@ -196,9 +196,9 @@
 }
 
 @media screen and (max-width: 700px) {
-  /* .container-main {
+  .container-main {
     margin-top: -30rem;
-  } */
+  }
   /* #text-two {
       font-size: 2.5rem!important;
     } */
@@ -252,24 +252,24 @@
 
 @media screen and (max-width: 768px) {
   html {
-    font-size: 6px;
+    font-size: 6.5px;
   }
 }
 @media screen and (max-width: 600px) {
   html {
-    font-size: 5px;
+    font-size: 6px;
   }
 }
 
 @media screen and (max-width: 480px) {
   html {
-    font-size: 4px;
+    font-size: 5.5px;
   }
 }
 
 @media screen and (max-width: 320px) {
   html {
-    font-size: 3px;
+    font-size: 5px;
   }
 }
 
