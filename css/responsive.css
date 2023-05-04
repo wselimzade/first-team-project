@@ -55,6 +55,9 @@
     margin-bottom: 2rem;
     justify-content: center;
   }
+  .footer-content-menu ul li:not(#first-child) {
+    margin-left: 1.5rem;
+  }
   .footer-content-menu .adress {
     margin-bottom: 2rem;
     margin-left: 1.5rem;
@@ -94,6 +97,9 @@
   }
   .footer-content-first-content-first-content {
     margin-bottom: 2.5rem;
+  }
+  .footer-content-menu ul li {
+    margin-left: 0px;
   }
 }
 
