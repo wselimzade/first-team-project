@@ -80,8 +80,8 @@
   .container
   .blog-single-first-section
   .blog-single-first-section-text {
-    text-align: center;
-  }
+  text-align: center;
+}
 
 /**  second-content left */
 
@@ -292,4 +292,40 @@
   font-weight: 400;
   font-size: 1.5rem;
   color: #ffffff;
+}
+
+/*! @password-protected text */
+
+.password-background .password-background-content h5 {
+  font-family: "Manrope";
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.password-background .password-background-content h1 {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 5.5rem;
+  color: #ffffff;
+}
+
+.password-section .password-box h4 {
+  font-family: "Manrope";
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #7a9ca5;
+}
+
+.password-section .password-box h2 {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-size: 4.5rem;
+  color: #141414;
+}
+
+.password-section .password-box p {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 1.9rem;
+  color: #555555;
 }

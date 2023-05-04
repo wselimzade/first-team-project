@@ -1,0 +1,11 @@
+/*? @inputlar ucun yazilan kodlar */
+
+.password-section .password-box .password-box-content input {
+  width: 40rem;
+  height: 2rem;
+  background: #f4f4f4;
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 1.9rem;
+  color: #555555;
+}

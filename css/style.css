@@ -1,11 +1,17 @@
 /* Umumi css fayllari */
 @import "./reset.css";
 @import "./utilites.css";
+
+@import "./password-protected.css";
+@import "./blog-single.css";
+
 @import "./header.css";
 @import "./footer.css";
+
+@import "./text.css";
+@import "./image.css";
 @import "./icons.css";
 @import "./button.css";
-@import "./text.css";
-@import "./blog-single.css";
-@import "./image.css";
+@import "./input.css";
+
 @import "./responsive.css";

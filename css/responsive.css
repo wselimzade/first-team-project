@@ -161,6 +161,20 @@
   }
 }
 
+/*! @password-protected */
+
+@media screen and (max-width: 1028px) {
+  .password-background {
+    margin-top: 18.8rem;
+  }
+}
+
+@media screen and (max-width: 705px) {
+  .password-background {
+    margin-top: 23.6rem;
+  }
+}
+
 /*? @all-font-size */
 
 @media screen and (max-width: 1200px) {
