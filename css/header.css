@@ -1,4 +1,4 @@
-/* @header hissesinin ve elementlerinin olculeri */
+/*? @header hissesinin ve elementlerinin olculeri */
 
 .header {
   justify-content: space-between;
@@ -8,6 +8,7 @@
   background: #ffffff;
   z-index: 111;
   width: 100%;
+  height: auto;
 }
 
 .header .header-left .header-left-first-content h3 {

@@ -1,4 +1,7 @@
 /* @iconlar ucun yazilan kodlar */
+
+/*! @header icons */
+
 .header
   .header-left
   .header-left-content
@@ -45,21 +48,15 @@
   color: #141414;
   font-weight: 400;
   font-size: 1.6rem;
-  }
+}
 
-.header
-.header-right
-.header-right-content
-.sosial-icon
-.hidden
-i{
+.header .header-right .header-right-content .sosial-icon .hidden i {
   color: #141414;
   font-size: 1.6rem;
   display: none;
-  /* visibility: hidden; */
 }
 
-/* @blog-single icon */
+/*! @blog-single icon */
 
 .blog-single
   .container
@@ -157,9 +154,9 @@ i{
   color: #141414;
 }
 
-/* footer section */
+/*! footer section */
 
-.footer .footer-logo-name .logo img{
+.footer .footer-logo-name .logo img {
   width: 6.5rem;
   height: 6.5rem;
 }
