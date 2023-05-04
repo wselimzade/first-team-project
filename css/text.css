@@ -3,6 +3,8 @@
 /* @istifade olunacaq fontlar */
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
+/*! @header  */
+
 .header
   .header-left
   .header-left-content
@@ -50,7 +52,7 @@
   color: #555555;
 }
 
-/* @blog-single text */
+/*! @blog-single text */
 
 .blog-single
   .container
@@ -81,7 +83,7 @@
     text-align: center;
   }
 
-/* second-content left */
+/**  second-content left */
 
 .blog-single
   .container
@@ -151,7 +153,7 @@
   color: #141414;
 }
 
-/* second-content-right */
+/** second-content-right */
 
 .blog-single
   .container
@@ -256,7 +258,7 @@
   color: #141414;
 }
 
-/* footer text */
+/*! footer text */
 
 .footer .footer-content .footer-content-first .footer-logo-name h3 {
   font-family: "Playfair Display";

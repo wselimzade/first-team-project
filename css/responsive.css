@@ -28,39 +28,14 @@
   .header-left-first-content {
     margin-bottom: 2rem;
   }
-
-  /* .header
-    .header-left
-    .header-left-content
-    .header-left-second-content
-    .contact
-    .call-number
-    .number {
-      font-size: 1.5rem;
-    } */
 }
-
-/* @media screen and (max-width: 550px) {
-  .header-right-content {
-    flex-direction: column;
-  }
-  .header-right-content .sosial-icon {
-    margin-bottom: 2rem;
-  }
-} */
 
 /*! @footer */
 
 @media screen and (max-width: 1320px) {
   .footer-content-first-content-first {
-    /* flex-direction: column;
-      justify-items: center;
-      align-items: center; */
     justify-content: space-around !important;
   }
-  /* .footer-content-first-content-first-content {
-      margin-bottom: 20px;
-    } */
   .footer-content-first {
     width: 80% !important;
   }
@@ -80,11 +55,6 @@
     margin-bottom: 2rem;
     justify-content: center;
   }
-  /*
-  .footer-content-menu ul li {
-    margin-left: 1.5rem;
-  }
-*/
   .footer-content-menu .adress {
     margin-bottom: 2rem;
     margin-left: 1.5rem;
@@ -125,21 +95,6 @@
   .footer-content-first-content-first-content {
     margin-bottom: 2.5rem;
   }
-  /* .footer-content-first-content-second {
-      text-align: center;
-    }
-    .footer-content-menu .adress {
-      text-align: center;
-    } */
-
-  /* .footer-content-menu {
-      text-align: center;
-    }
-    .adress-content-first,
-    .adress-content-second,
-    .adress-content-third {
-      justify-content: center;
-    } */
 }
 
 @media screen and (max-width: 570px) {
@@ -189,31 +144,13 @@
   .blog-single-facebook {
     margin-left: 0px !important;
   }
-  /* .container-main {
-    margin-top: -34rem;
-  } */
-  /* #text-two {
-      font-size: 4rem!important;
-    } */
 }
 
 @media screen and (max-width: 700px) {
   .container-main {
-    margin-top: -30rem;
+    margin-top: -40rem;
   }
-  /* #text-two {
-      font-size: 2.5rem!important;
-    } */
 }
-
-/* @media screen and (max-width:550px) {
-    #text-one {
-      font-size: 1rem!important;
-    }
-    #text-two {
-      font-size: 2rem!important;
-    }
-  } */
 
 @media screen and (max-width: 460px) {
   .blog-single-second-section-left-content-third-content {
@@ -224,15 +161,7 @@
   }
 }
 
-/* @media screen and (max-width:400px) {
-    .call-number a {
-      font-size: 1.5rem!important;
-    }
-  } */
-
-/**********************************
-   @all-font-size 
-   *************************************/
+/*? @all-font-size */
 
 @media screen and (max-width: 1200px) {
   html {
@@ -274,5 +203,3 @@
     font-size: 5px;
   }
 }
-
-/*$********************************************/

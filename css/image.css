@@ -2,5 +2,6 @@
 
 .blog-single .container .blog-single-first-section .blog-single-first-image img,
 .blog-section-second-image img {
-  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
