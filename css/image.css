@@ -2,6 +2,12 @@
 
 .blog-single .container .blog-single-first-section .blog-single-first-image img,
 .blog-section-second-image img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
+  box-shadow: 0px 24px 30px rgba(122, 156, 165, 0.35);
+}
+
+.photo img {
+  width: 80px;
+  height: 80px;
 }
